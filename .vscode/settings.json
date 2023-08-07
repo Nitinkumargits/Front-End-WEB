@@ -1,0 +1,11 @@
+{
+    "editor.guides.bracketPairs": false,
+    "editor.guides.indentation": true,
+    "workbench.tree.renderIndentGuides": "onHover",
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true,
+    "prettier.bracketSameLine": true,
+    "prettier.requireConfig": true,
+    "prettier.singleAttributePerLine": true
+}
